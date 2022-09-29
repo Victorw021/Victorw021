@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Victorw021
-- 🌱 I’m currently learning front-end development
-- 💞️ Currently a Computer Engineering Student
-- 📫 How to reach me: victorwang0930@gmail.com
+-  Hi, I’m @Victorw021
+-  Currently a Computer Engineering Student
+
 
 <!---
 Victorw021/Victorw021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

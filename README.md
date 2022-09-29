@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victorw021
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ Currently a Computer Engineering Student
 - 📫 How to reach me: victorwang0930@gmail.com
 
 <!---
